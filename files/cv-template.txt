@@ -1,0 +1,14 @@
+ * Name: Forename SURNAME
+* Contact Information: email: [professional email address], tel: UK landline or mobile
+* Education:
+  * 2000-2003: University/Universities, Degree and Subject, City and Country
+* Work Experience:
+  * Sep-07 – Aug-10: Advised Digital Media division of Official Company Name in City, Country, on £3M international expansion. Coordinated team of 8 analysts during initial research phase. Structured and negotiated equipment deal financing worth $745k.
+  * Jun-05 – Sep-07: Worked at Official Company Name in City, Country, in a previous role.
+  * Mar-04 – Jun-05: Worked at Official Company Name in City, Country, in another role. Ensured CV is easy to scan and started bullet points with relevant action verbs. Included significant voluntary experience.
+  * Aug-03 – Mar-04: Worked at Official Company Name in City, Country, in yet another role. Used past tense for completed roles and set dates using abbreviated month and two digits for the year.
+* Interests:
+  * Running: Participated in several marathons. Willing to discuss achievements.
+  * Academic: Received First Class Honours and Previous University Study Abroad Scholarship.
+  * Non-academic: Principal Cellist of London Youth Orchestra.
+* Personal: Nationality information not provided. Fluent in German.

@@ -1,0 +1,9 @@
+ * Prathyaksh Malligari's contact information: email [iamprathyaksh@gmail.com], phone number +91 7993791231, GitHub [github.com/theprathyaksh], LinkedIn [linkedin.com/in/prathyaksh-malligari]
+* Education: B.Tech in Computer Science and Engineering (expected graduation May 2024) from Rajiv Gandhi University of Knowledge Technologies, Basar. Pre-University Course completed in 2018-2020 at the same university.
+* Projects:
+  + Mysterymessage (Apr 2024): Anonymous Feedback Web Application using Next.js, Mongodb, TypeScript, Zod, Shadcn, NextAuth, and Resend.
+  + Summarization App (Feb. 2024): Document Summarization Application using Flant-5, Next.js, and Acertainity UI.
+  + RIC-Mobile App (Nov. 2023 - Jan 2024): Read India Celebration Mobile Application using Flutter and Dart, with Firebase and Cloud Firestore integration.
+* Skills: Operating Systems (Windows, Ubuntu, MAC), Languages (C, Java, JavaScript, OOPS, Dart), Technologies & Tools (HTML, CSS, React.js, Next.js, Node.js, Express.js, Flutter), Version Control (Git, GitHub), Databases (MySQL, SQLite, Mongoose), Cloud Computing (GCP, AWS), Design (Figma, Canva, Photoshop, Illustrator).
+* Experience: Freelance Graphic/UI Design (Apr. 2023 - Jun. 2023), Flutter Intern at Gear Head Motors (Jun. 2023 - Aug. 2023), Remote Intern at IIIT, Hyderabad (Apr. 2023 - Jun. 2023).
+* Activities & Interests: Technical Team Member in CodeClub RGUKT, Basar, Worked as a core team member in
